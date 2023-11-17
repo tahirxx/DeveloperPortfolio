@@ -18,10 +18,10 @@ function App() {
   ));
 
   return (
-    <>
+    <div>
       <Nav />
       {cards}
-    </>
+    </div>
   );
 }
 
